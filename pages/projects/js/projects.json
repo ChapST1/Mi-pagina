@@ -1,0 +1,161 @@
+[
+    [
+        {
+            "id": "1",
+            "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+            "link": "https://chapst1.github.io/Galeria2.0Finish/",
+            "title": "Galeria",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js'></i>"
+            ]
+        },
+        {
+            "id": "2",
+            "img": "https://thumbs2.imgbox.com/04/4e/Ra2pbN2T_t.png",
+            "link": "https://chapst1.github.io/Portfolio-freecodeCamp/",
+            "title": "Tarea Colegio",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js'></i>"
+            ]
+        },
+        {
+            "id": "3",
+            "img": "https://thumbs2.imgbox.com/cf/39/1ne1l2iN_t.png",
+            "link": "https://chapst1.github.io/Rick-and-Morty-API/",
+            "title": "Rick Y Morti",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js'></i>"
+            ]
+        },
+        {
+            "id": "4",
+            "img": "https://thumbs2.imgbox.com/23/2e/o1m29VrD_t.png",
+            "link": "https://chapst1.github.io/Gallery-API-Unsplash/",
+            "title": "The Gallery",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js'></i>"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "01",
+            "img": "https://raw.githubusercontent.com/RivaldoEsteban/loop-studios/master/design/desktop-preview.jpg",
+            "link": "https://chapst1.github.io/challenge/",
+            "title": "LoopStudio",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>"
+            ]
+        },
+        {
+            "id": "02",
+            "img": "https://raw.githubusercontent.com/ChapST1/base-apparel-coming-soon-master/main/design/desktop-preview.jpg",
+            "link": "https://chapst1.github.io/base-apparel-coming-soon-master/",
+            "title": "Base apparel",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>"
+            ]
+        },
+        {
+            "id": "03",
+            "img": "https://camo.githubusercontent.com/ee2fa1d9fae88497cda65642cf834a9ba4273ccb75c80a193dad7562192759c1/68747470733a2f2f696d61676573322e696d67626f782e636f6d2f31612f36662f7947495373366d4c5f6f2e706e67",
+            "link": "https://chapst1.github.io/Team-Page/",
+            "title": "Team Pages",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>"
+            ]
+        },
+        {
+            "id": "04",
+            "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252F404PageThumbnail.png%3Falt%3Dmedia%26token%3D81f7c567-c0bc-446f-a549-07eeda31c5ef&w=750&q=75",
+            "link": "https://chapst1.github.io/404-Not-Found/",
+            "title": "404 not found",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>"
+            ]
+        },
+        {
+            "id": "05",
+            "img": "https://raw.githubusercontent.com/ChapST1/EasyBankLandigChallengeHubPageHubFrontendMentor/master/design/desktop-preview.jpg",
+            "link": "https://chapst1.github.io/EasyBankLandigChallengeHubPageHubFrontendMentor/",
+            "title": "Easy Bank sitio web",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js small'></i>"
+            ]
+        },
+        {
+            "id": "06",
+            "img": "https://github.com/ChapST1/Frontend-Mentor-Blogr-landing-page/raw/master/design/desktop-preview.jpg",
+            "link": "https://chapst1.github.io/Frontend-Mentor-Blogr-landing-page/",
+            "title": "Frontend Mentor - Blogr landing page",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js small'></i>"
+            ]
+        },
+        {
+            "id": "07",
+            "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+            "link": "https://chapst1.github.io/pasteleria/",
+            "title": "'Pasteleria'",
+            "technology": [
+                "<i class='fa-brands fa-html5'></i>",
+                "<i class='fa-brands fa-css3-alt'></i>",
+                "<i class='fa-brands fa-square-js small'></i>"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "001",
+            "img": "https://images2.imgbox.com/f3/ba/pDBrjfI0_o.png",
+            "imghd": "https://images2.imgbox.com/f3/ba/pDBrjfI0_o.png",
+            "title": "Mi Portafolio",
+            "technology": [
+                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
+            ]
+        },
+        {
+            "id": "002",
+            "img": "https://images2.imgbox.com/69/26/NSpkCNW2_o.png",
+            "imghd": "https://images2.imgbox.com/6e/c2/XXnK9n0U_o.png",
+            "title": "Mi Portafolio",
+            "technology": [
+                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
+            ]
+        },
+        {
+            "id": "003",
+            "img": "https://thumbs2.imgbox.com/20/17/3ZnZM9g1_t.png",
+            "imghd": "https://images2.imgbox.com/20/17/3ZnZM9g1_o.png",
+            "title": "todo app",
+            "technology": [
+                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
+            ]
+        },
+        {
+            "id": "004",
+            "img": "https://images2.imgbox.com/01/e5/I3sj4LHT_o.jpg",
+            "imghd": "https://images2.imgbox.com/01/e5/I3sj4LHT_o.jpg",
+            "title": "Pastelería",
+            "technology": [
+                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
+            ]
+        }
+    ]
+]
