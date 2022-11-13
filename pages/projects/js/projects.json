@@ -119,43 +119,5 @@
                 "<i class='fa-brands fa-square-js small'></i>"
             ]
         }
-    ],
-    [
-        {
-            "id": "001",
-            "img": "https://images2.imgbox.com/f3/ba/pDBrjfI0_o.png",
-            "imghd": "https://images2.imgbox.com/f3/ba/pDBrjfI0_o.png",
-            "title": "Mi Portafolio",
-            "technology": [
-                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
-            ]
-        },
-        {
-            "id": "002",
-            "img": "https://images2.imgbox.com/69/26/NSpkCNW2_o.png",
-            "imghd": "https://images2.imgbox.com/6e/c2/XXnK9n0U_o.png",
-            "title": "Mi Portafolio",
-            "technology": [
-                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
-            ]
-        },
-        {
-            "id": "003",
-            "img": "https://thumbs2.imgbox.com/20/17/3ZnZM9g1_t.png",
-            "imghd": "https://images2.imgbox.com/20/17/3ZnZM9g1_o.png",
-            "title": "todo app",
-            "technology": [
-                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
-            ]
-        },
-        {
-            "id": "004",
-            "img": "https://images2.imgbox.com/01/e5/I3sj4LHT_o.jpg",
-            "imghd": "https://images2.imgbox.com/01/e5/I3sj4LHT_o.jpg",
-            "title": "Pastelería",
-            "technology": [
-                "<img src='../../images/skills/icons8-figma.svg' alt='figma-icon' class='fa-figma'>"
-            ]
-        }
     ]
 ]
