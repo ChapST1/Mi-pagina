@@ -2,14 +2,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans:wght@400;700&display=swap");
 
 /* new */
-@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
 
 :root {
   --bg: #11171a;
   --bg-nav: #1c2429;
   --text-color: #f6f4f4;
-  --primary: #1ceeba; 
+  --primary: #1ceeba;
 }
 
 * {
@@ -40,7 +40,7 @@ body::-webkit-scrollbar-thumb {
   padding: 30px 0;
   padding-left: 90px;
   text-align: center;
-  font-family: 'Yeseva One', cursive;
+  font-family: "Yeseva One", cursive;
   font-size: 1.5rem;
   color: var(--text-color);
   position: absolute;
@@ -67,7 +67,7 @@ body::-webkit-scrollbar-thumb {
   text-align: center;
   text-decoration: none;
   font-size: 1.7rem;
-  font-family: 'Yeseva One', cursive;
+  font-family: "Yeseva One", cursive;
   font-weight: 700;
 }
 
@@ -92,7 +92,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .navigation__a-active {
-  color:var(--primary);
+  color: var(--primary);
 }
 
 .navigation__a:hover {
@@ -129,6 +129,7 @@ body::-webkit-scrollbar-thumb {
 }
 /* svg */
 .svg-container {
+  width: 352px;
   height: 255px;
   position: relative;
   display: flex;
@@ -145,10 +146,14 @@ body::-webkit-scrollbar-thumb {
   overflow: hidden;
 }
 
-.svg__avatar {
+/* .svg__avatar {
   width: 75%;
   border-radius: 50%;
   z-index: 200;
+} */
+.svg__avatar {
+  font-size: 10.2rem;
+  color: var(--text-color);
 }
 
 .description-container {
@@ -194,8 +199,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 .social__link:hover {
-    color: var(--primary);
-    transform: scale(1.2);
+  color: var(--primary);
+  transform: scale(1.2);
 }
 
 @media (max-width: 1100px) {
@@ -220,7 +225,6 @@ body::-webkit-scrollbar-thumb {
     padding: 10px;
     bottom: 20px;
   }
-  
 }
 
 @media (max-width: 700px) {
@@ -250,7 +254,9 @@ body::-webkit-scrollbar-thumb {
     flex-direction: row;
     gap: 10px;
   }
-  .navigation__a,.fa-moon,.fa-sun{
+  .navigation__a,
+  .fa-moon,
+  .fa-sun {
     font-size: 1.4rem;
   }
 
@@ -260,14 +266,16 @@ body::-webkit-scrollbar-thumb {
     height: auto;
     gap: 10px;
   }
-  .main-svg{
+  .main-svg {
     transform: scale(4) translate(-10px, 5px);
   }
   .svg-container {
     width: 200px;
-    height: 140px;
+    height: 150px;
   }
-
+  .svg__avatar {
+    font-size: 5rem;
+  }
   .description-container {
     width: 100%;
     height: auto;
