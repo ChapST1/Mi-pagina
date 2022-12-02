@@ -1,62 +1,125 @@
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portafolio</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/x-icon" href="../../images/logo.ico">
-    <script src="https://kit.fontawesome.com/8ff5336caf.js" crossorigin="anonymous"></script>
-</head>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" type="image/x-icon" href="../../images/logo.ico" />
+    <script
+      src="https://kit.fontawesome.com/8ff5336caf.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
 
-<body>
+  <body>
     <header class="header">
-        <h1>Mis Proyectos</h1>
+      <h1>Mis Proyectos</h1>
     </header>
     <nav class="navigation">
-        <a href="../../index.html" class="navigation__logo">Ch</a>
-        <ul class="navigation__ul">
-            <li class="navigation__li"><a href="../../index.html" class="navigation__a"><i
-                        class="fa-solid fa-house-chimney"></i></a>
-            </li>
-            <li class="navigation__li"><a href="../../pages/skills/index.html" class="navigation__a"><i
-                        class="fa fa-bolt fa-fw"></i></a></li>
-            <li class="navigation__li"><a href="../../index.html" class="navigation__a navigation__a-active"><i
-                        class="fa-solid fa-folder-open"></i></a>
-            </li>
-        </ul>
-        <a href="https://proyectos-figma.vercel.app" class="navigation__figma-projects">
-            <i class="fa-brands fa-figma navigation__a"></i>
-        </a>
+      <a href="../../index.html" class="navigation__logo">Ch</a>
+      <ul class="navigation__ul">
+        <li class="navigation__li">
+          <a href="../../index.html" class="navigation__a"
+            ><i class="fa-solid fa-house-chimney"></i
+          ></a>
+        </li>
+        <li class="navigation__li">
+          <a href="../../pages/skills/index.html" class="navigation__a"
+            ><i class="fa fa-bolt fa-fw"></i
+          ></a>
+        </li>
+        <li class="navigation__li">
+          <a href="../../index.html" class="navigation__a navigation__a-active"
+            ><i class="fa-solid fa-folder-open"></i
+          ></a>
+        </li>
+      </ul>
+      <a
+        href="https://proyectos-figma.vercel.app"
+        class="navigation__figma-projects"
+      >
+        <i class="fa-brands fa-figma navigation__a"></i>
+      </a>
     </nav>
     <main class="main">
-          <!-- svg -->
-          <img src="../../images/svg/Rectangle 7.png" alt="svg" class="main-svg main-svg-1">
-          <img src="../../images/svg/Rectangle 7.png" alt="svg" class="main-svg main-svg-2">
-        <!-- svg -->
-        <section class="slider-container">
-            <section class="slider">
+      <!-- svg -->
+      <img
+        src="../../images/svg/Rectangle 7.png"
+        alt="svg"
+        class="main-svg main-svg-1"
+      />
+      <img
+        src="../../images/svg/Rectangle 7.png"
+        alt="svg"
+        class="main-svg main-svg-2"
+      />
+      <!-- svg -->
+      <!-- navigation technology -->
+      <nav class="navigation-technology">
+        <ul class="navigation-technology__ul">
+          <li class="navigation-technology__li">
+            <img
+              src="../../images/skills/icons8-react.svg"
+              alt="icon"
+              class="navigation-technology__icon"
+              data-value="0"
+            />
+          </li>
+          <li class="navigation-technology__li">
+            <img
+              src="../../images/skills/icons8-javascript.svg"
+              alt="icon"
+              class="navigation-technology__icon"
+              data-value="1"
+            />
+          </li>
+          <li class="navigation-technology__li">
+            <img
+              src="../../images/skills/icons8-css3.svg"
+              alt="icon"
+              class="navigation-technology__icon"
+              data-value="2"
+            />
+          </li>
+          <li class="navigation-technology__li">
+            <img
+              src="../../images/skills/tailwindcss-icon.svg"
+              alt="icon"
+              class="navigation-technology__icon"
+              data-value="3"
+            />
+          </li>
+          <li class="navigation-technology__li">
+            <img
+              src="../../images/skills/icons8-sass.svg"
+              alt="icon"
+              class="navigation-technology__icon"
+              data-value="4"
+            />
+          </li>
+        </ul>
+        <div class="ball"></div>
+      </nav>
+      <!-- navigation -->
 
-            </section>
-            <i class="fa-solid fa-arrow-right right"></i>
-            <i class="fa-solid fa-arrow-left left"></i>
-        </section>
-        <section class="slider-container">
-            <section class="slider css">
-
-            </section>
-            <i class="fa-solid fa-arrow-right right"></i>
-            <i class="fa-solid fa-arrow-left left"></i>
-        </section>
-        <!-- footer -->
-        <footer class="footer">
-            <p class="footer__copyright">©️Christian 2022</p>
-            <p class="footer__link">Imagenes alojadas en <a href="https://imgbox.com/" target="_blank">imgbox</a></p>
-        </footer>
+      <!-- projects -->
+      <section class="projects-container react"></section>
+      <section class="projects-container javascript"></section>
+      <section class="projects-container css"></section>
+      <section class="projects-container tailwind"></section>
+      <section class="projects-container sass"></section>
+      <!-- projects -->
     </main>
+    <!-- footer -->
+    <footer class="footer">
+      <p class="footer__copyright">©️Christian 2022</p>
+      <p class="footer__link">
+        Imagenes alojadas en
+        <a href="https://imgbox.com/" target="_blank">imgbox</a>
+      </p>
+    </footer>
     <script type="module" src="./js/index.js"></script>
-</body>
-
+  </body>
 </html>

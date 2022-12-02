@@ -1,0 +1,266 @@
+[
+  [
+    {
+      "id": "1",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react js",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "2",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "3",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "4",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "5",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "6",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "7",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Proyecto con react 2",
+      "technology": [
+        "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    }
+  ],
+  [
+    {
+      "id": "01",
+      "img": "https://images2.imgbox.com/4f/4f/dsxJGeqI_o.png",
+      "link": "https://chapst1.github.io/Galeria2.0Finish/",
+      "title": "Galeria",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "02",
+      "img": "https://thumbs2.imgbox.com/04/4e/Ra2pbN2T_t.png",
+      "link": "https://chapst1.github.io/Portfolio-freecodeCamp/",
+      "title": "Tarea Colegio",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "03",
+      "img": "https://thumbs2.imgbox.com/cf/39/1ne1l2iN_t.png",
+      "link": "https://chapst1.github.io/Rick-and-Morty-API/",
+      "title": "Rick Y Morti",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "04",
+      "img": "https://images2.imgbox.com/bf/72/cGieTTdG_o.png",
+      "link": "https://chapst1.github.io/Gallery/",
+      "title": "Gallery",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "05",
+      "img": "https://images2.imgbox.com/40/fc/0hdSE9MC_o.png",
+      "link": "https://chapst1.github.io/notes-plus/",
+      "title": "Notes +",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    }
+  ],
+  [
+    {
+      "id": "001",
+      "img": "https://raw.githubusercontent.com/RivaldoEsteban/loop-studios/master/design/desktop-preview.jpg",
+      "link": "https://chapst1.github.io/challenge/",
+      "title": "LoopStudio",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "002",
+      "img": "https://raw.githubusercontent.com/ChapST1/base-apparel-coming-soon-master/main/design/desktop-preview.jpg",
+      "link": "https://chapst1.github.io/base-apparel-coming-soon-master/",
+      "title": "Base apparel",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "003",
+      "img": "https://camo.githubusercontent.com/ee2fa1d9fae88497cda65642cf834a9ba4273ccb75c80a193dad7562192759c1/68747470733a2f2f696d61676573322e696d67626f782e636f6d2f31612f36662f7947495373366d4c5f6f2e706e67",
+      "link": "https://chapst1.github.io/Team-Page/",
+      "title": "Team Pages",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "004",
+      "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252F404PageThumbnail.png%3Falt%3Dmedia%26token%3D81f7c567-c0bc-446f-a549-07eeda31c5ef&w=750&q=75",
+      "link": "https://chapst1.github.io/404-Not-Found/",
+      "title": "404 not found",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "005",
+      "img": "https://raw.githubusercontent.com/ChapST1/EasyBankLandigChallengeHubPageHubFrontendMentor/master/design/desktop-preview.jpg",
+      "link": "https://chapst1.github.io/EasyBankLandigChallengeHubPageHubFrontendMentor/",
+      "title": "Easy Bank sitio web",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "006",
+      "img": "https://github.com/ChapST1/Frontend-Mentor-Blogr-landing-page/raw/master/design/desktop-preview.jpg",
+      "link": "https://chapst1.github.io/Frontend-Mentor-Blogr-landing-page/",
+      "title": "Blogr landing page",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    },
+    {
+      "id": "007",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria'",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-css3.svg' alt='technology icons' class='technology__icons'/>"
+      ]
+    }
+  ],
+  [
+    {
+      "id": "0001",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria tailwind css",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+      ]
+    },
+    {
+      "id": "0002",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria tailwind css",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+      ]
+    },
+    {
+      "id": "0003",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria tailwind css",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+      ]
+    }
+  ],
+  [
+    {
+      "id": "00001",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria sass",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+      ]
+    },
+    {
+      "id": "00002",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria sass",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+      ]
+    },
+    {
+      "id": "00003",
+      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
+      "link": "https://chapst1.github.io/pasteleria/",
+      "title": "'Pasteleria sass",
+      "technology": [
+        "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
+        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+      ]
+    }
+  ]
+]

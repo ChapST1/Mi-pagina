@@ -1,40 +1,41 @@
-import { getData } from "./showData.js";
+import getData from "./showData.js";
 
-const arrowRight = document.querySelectorAll('.right');
-const arrowLeft = document.querySelectorAll('.left');
+//variables navigation technology
+const ball = document.querySelector(".ball");
+const icons = document.querySelectorAll(".navigation-technology__icon");
+const widthLi = document.querySelector(
+  ".navigation-technology__li"
+).clientWidth;
 
-getData()
-arrowRight.forEach(e => {
-    e.addEventListener('click', () => {
-        e.style.pointerEvents = 'none';
-        let slider = e.parentElement.firstElementChild;
-        let item = slider.firstElementChild.clientWidth; //width 
-        slider.scrollLeft += item;
-        setTimeout(() => {
-            e.style.pointerEvents = 'auto';
-        }, 200);
-        if (!(slider.scrollLeft + item).toString().includes('00')) {
-            slider.scrollLeft = 0
-        }
+function translateBall() {
+  ball.style.width = `${widthLi}px`;
+  icons.forEach((icon) => {
+    icon.addEventListener("click", () => {
+      let dataValue = Number(icon.getAttribute("data-value"));
+      switch (dataValue) {
+        case 0:
+          ball.style.transform = `translateX(0%) scale(0.8)`;
+          break;
+        case 1:
+          ball.style.transform = `translateX(100%) scale(0.8)`;
+          break;
+        case 2:
+          ball.style.transform = `translateX(200%) scale(0.8)`;
+          break;
+        case 3:
+          ball.style.transform = `translateX(300%) scale(0.8)`;
+          break;
+        case 4:
+          ball.style.transform = `translateX(400%) scale(0.8)`;
+          break;
 
-    })
-})
+        default:
+          break;
+      }
+    });
+  });
+}
 
-arrowLeft.forEach(e => {
-    e.addEventListener('click', () => {
-        e.style.pointerEvents = 'none';
-        let slider = e.parentElement.firstElementChild;
-        let item = slider.firstElementChild.clientWidth; //width 
-        let child = e.parentElement.firstElementChild.childElementCount;
-        let op = item * child;
-        slider.scrollLeft -= item;
-        setTimeout(() => {
-            e.style.pointerEvents = 'auto';
-        }, 200);
-        if ((slider.scrollLeft - item) == -item) {
-            slider.scrollLeft = op;
-        }
-    })
-})
+getData();
 
-
+translateBall();
