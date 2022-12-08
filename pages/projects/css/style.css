@@ -182,8 +182,6 @@ a {
 /* svg */
 
 /* 0 projects */
-.no-projects {
-}
 
 /* projects Container*/
 .projects-container {
@@ -217,6 +215,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: 0.5s;
 }
 /* loader */
 .loader {

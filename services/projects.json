@@ -196,35 +196,32 @@
   [
     {
       "id": "0001",
-      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
-      "link": "https://chapst1.github.io/pasteleria/",
-      "title": "'Pasteleria tailwind css",
+      "img": "https://raw.githubusercontent.com/ChapST1/formCss/master/screenshots/Screenshot%202022-12-02%20163712%20(1).png",
+      "link": "https://chapst1.github.io/formCss/",
+      "title": "Formulario",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>"
       ]
     },
     {
       "id": "0002",
-      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
-      "link": "https://chapst1.github.io/pasteleria/",
-      "title": "'Pasteleria tailwind css",
+      "img": "https://camo.githubusercontent.com/b1c93f94dc6600725424097e75b0fad02bbc8294e82a1dce19e338a78dfa62b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a32303973366a6b2f696d6167652f75706c6f61642f76313634373630353637392f4368616c6c656e6765732f6e7669746d796a776d3362396b6936376837397a2e6a7067",
+      "link": "https://chapst1.github.io/challenge-frontend-mentor/",
+      "title": "Reto Frontend Mentor",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>"
       ]
     },
     {
       "id": "0003",
-      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
-      "link": "https://chapst1.github.io/pasteleria/",
-      "title": "'Pasteleria tailwind css",
+      "img": "https://raw.githubusercontent.com/ChapST1/google-clone/master/screenshots/Screenshot%202022-12-03%20181849.png",
+      "link": "https://chapst1.github.io/google-clone/",
+      "title": "Clon de google",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons  opacity'/>"
+        "<img src='../../images/skills/tailwindcss-icon.svg' alt='technology icons' class='technology__icons'/>"
       ]
     }
   ],
@@ -236,30 +233,27 @@
       "title": "'Pasteleria sass",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>"
       ]
     },
     {
       "id": "00002",
-      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
-      "link": "https://chapst1.github.io/pasteleria/",
-      "title": "'Pasteleria sass",
+      "img": "https://raw.githubusercontent.com/ChapST1/100-days-of-css/master/screenshot/Screenshot%202022-12-07%20212801.png",
+      "link": "https://100-days-of-css.vercel.app/",
+      "title": "100 days of css",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>"
       ]
     },
     {
       "id": "00003",
-      "img": "https://images2.imgbox.com/eb/da/YJTmYtpy_o.png",
-      "link": "https://chapst1.github.io/pasteleria/",
-      "title": "'Pasteleria sass",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ydwlkxtdt2ocf5lfr8gf.jpg",
+      "link": "https://chapst1.github.io/frontend-mentor-challengue-news-home-page/",
+      "title": "Reto de Frontend Mentor",
       "technology": [
         "<img src='../../images/skills/icons8-html-5.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>",
-        "<img src='../../images/skills/icons8-javascript.svg' alt='technology icons' class='technology__icons opacity'/>"
+        "<img src='../../images/skills/icons8-sass.svg' alt='technology icons' class='technology__icons'/>"
       ]
     }
   ]
