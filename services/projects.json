@@ -2,7 +2,7 @@
   [
     {
       "id": "1",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react js",
       "technology": [
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "6",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
@@ -56,7 +56,7 @@
     },
     {
       "id": "7",
-      "img": "../images/small_image/first.webp",
+      "img": "https://raw.githubusercontent.com/ChapST1/Mi-pagina/master/images/small_image/first.webp",
       "link": "https://chapst1.github.io/Galeria2.0Finish/",
       "title": "Proyecto con react 2",
       "technology": [
