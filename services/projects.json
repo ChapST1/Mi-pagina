@@ -2,9 +2,9 @@
   [
     {
       "id": "1",
-      "img": "https://i.ytimg.com/vi/iE8hIqD7dco/maxresdefault.jpg",
-      "link": "#",
-      "title": "Proximamentes",
+      "img": "https://raw.githubusercontent.com/ChapST1/todos-app/master/screenshot/Screenshot%20from%202023-02-13%2020.02.43.png",
+      "link": "https://lighthearted-fenglisu-58fed5.netlify.app/",
+      "title": "Todo App",
       "technology": [
         "<img src='../../images/skills/icons8-react.svg' alt='technology icons' class='technology__icons'/>"
       ]
